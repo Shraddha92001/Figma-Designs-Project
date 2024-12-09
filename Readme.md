@@ -12,6 +12,8 @@ Redesigned the user interface for House of Mark Tech to enhance visual appeal, i
 ![Homepage](images/homepage.png)  
 ![Property Listing](images/listing.png)
 
+## Figma Prototype
+View the redesigned UI/UX for [House of Mark Tech](https://www.figma.com/design/wjd6Hy51N0BdfX2FuTs1zc/task?node-id=23-2&t=uKDsVWbLWqVFYfuh-1).
 
 ## Tools Used
 - Figma (for design and prototyping)
